@@ -1,4 +1,4 @@
-service: lambda-init
+service: lambda-sls-esbuild-init
 
 provider:
   name: aws

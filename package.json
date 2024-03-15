@@ -1,5 +1,5 @@
 {
-	"name": "lambda-init",
+	"name": "lambda-sls-esbuild-init",
 	"version": "1.0.0",
 	"description": "Serverless lambda boilerplate",
 	"main": "index.ts",
